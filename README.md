@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vidaljaeger
-- 👀 I’m interested in le developpement web depuis deja 2 années.
-- 🌱 I’m currently learning le Javascript en autodictacte.
+- 👀 I’m interested in web development for 5 years.
+- 🌱 I’m currently learning Javascript in autodictact.
 - 📫 Vous pouvez me join sur mon Email : Vidalackerman@gmail.com
 
 <!---
